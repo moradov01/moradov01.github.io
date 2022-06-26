@@ -1,0 +1,18 @@
+
+1- about:config
+2- webgl.disabled
+3- media.peerconnection.enabled
+4- media.navigator.enabled
+5- geo.enable
+    geo
+6- data:application/json,{"location": {"lat": x, "lng": y}}
+
+
+https://addons.mozilla.org/en-US/firefox/
+
+
+Extention:
+
+1) https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/
+
+2) https://addons.mozilla.org/en-US/firefox/addon/secure-kit/
